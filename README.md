@@ -21,3 +21,5 @@ Design of this is so simple that the user won’t find difficulties while workin
 4th Step: Click on browse file and select “hospital.sql” file.
 
 5th Step: Click on go.
+
+(If you can't create your own database the sql file is also included in the project.)
